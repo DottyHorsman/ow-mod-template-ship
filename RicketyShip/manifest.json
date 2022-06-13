@@ -1,8 +1,8 @@
 {
-  "filename": "ModTemplate.dll",
+  "filename": "RicketyShip.dll",
   "author": "fudges",
   "name": "Fragile Ship",
   "uniqueName": "fudges.FragileShip",
   "version": "0.1.0",
-  "owmlVersion": "2.3.2"
+  "owmlVersion": "2.5.1"
 }

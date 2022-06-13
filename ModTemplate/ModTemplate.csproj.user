@@ -1,5 +1,0 @@
-﻿<Project>
-  <PropertyGroup>
-    <OutputPath>$(AppData)\Roaming\OuterWildsModManager\OWML\Mods\fudges.FragileShip</OutputPath>
-  </PropertyGroup>
-</Project>
